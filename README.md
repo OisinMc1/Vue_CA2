@@ -19,7 +19,8 @@ Then migrate and seed the database:
 
 - `php artisan migrate --seed`
 
-When logging with the application
+When logging with the application its best to use the following values
+<br>
 <br>email: sam@bloggs.com
 <br>password: secret
 
