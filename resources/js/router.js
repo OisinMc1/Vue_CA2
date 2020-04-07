@@ -23,7 +23,7 @@ import LecturersEdit from './views/lecturers/Edit'
 import LecturersCreate from './views/lecturers/Create'
 import LecturersShow from './views/lecturers/Show'
 
-//Tells the applicaition to use this router
+//Tells the application to use this router
 Vue.use(Router)
 
 export default new Router({

@@ -43,7 +43,7 @@
               <b-card-text>
                 A list of enrolments that the college has recorded in its database.
               </b-card-text>
-              <b-button to="/enrolments" variant="primary">To Enrolments</b-button>
+              <b-button to="/enrolments" variant="success">To Enrolments</b-button>
             </b-card>
           </div>
         </b-tab>
@@ -64,7 +64,7 @@
               <b-card-text>
                 A list of lecturers that the college is currently employing.
               </b-card-text>
-              <b-button to="/lecturers" variant="primary">To Lecturers</b-button>
+              <b-button to="/lecturers" variant="warning">To Lecturers</b-button>
             </b-card>
           </div>
         </b-tab>

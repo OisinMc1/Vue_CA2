@@ -79816,7 +79816,7 @@ var render = function() {
                             _c(
                               "b-button",
                               {
-                                attrs: { to: "/enrolments", variant: "primary" }
+                                attrs: { to: "/enrolments", variant: "success" }
                               },
                               [_vm._v("To Enrolments")]
                             )
@@ -79856,7 +79856,7 @@ var render = function() {
                             _c(
                               "b-button",
                               {
-                                attrs: { to: "/lecturers", variant: "primary" }
+                                attrs: { to: "/lecturers", variant: "warning" }
                               },
                               [_vm._v("To Lecturers")]
                             )
@@ -97207,7 +97207,8 @@ __webpack_require__(/*! ./bootstrap */ "./resources/js/bootstrap.js");
 
 
 
-vue__WEBPACK_IMPORTED_MODULE_0___default.a.use(bootstrap_vue__WEBPACK_IMPORTED_MODULE_2__["default"]);
+vue__WEBPACK_IMPORTED_MODULE_0___default.a.use(bootstrap_vue__WEBPACK_IMPORTED_MODULE_2__["default"]); //Starts a new Vue application
+
 new vue__WEBPACK_IMPORTED_MODULE_0___default.a({
   router: _router__WEBPACK_IMPORTED_MODULE_4__["default"],
   render: function render(h) {
@@ -97394,7 +97395,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
- //Tells the applicaition to use this router
+ //Tells the application to use this router
 
 vue__WEBPACK_IMPORTED_MODULE_0___default.a.use(vue_router__WEBPACK_IMPORTED_MODULE_1__["default"]);
 /* harmony default export */ __webpack_exports__["default"] = (new vue_router__WEBPACK_IMPORTED_MODULE_1__["default"]({

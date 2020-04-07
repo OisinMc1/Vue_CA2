@@ -9,6 +9,7 @@ import router from './router'
 
 Vue.use(BootstrapVue)
 
+//Starts a new Vue application
 new Vue({
   router,
   render: h => h(App)
