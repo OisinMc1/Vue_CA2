@@ -19,7 +19,7 @@ Then migrate and seed the database:
 
 - `php artisan migrate --seed`
 
-When logging with the application its best to use the following values
+When logging with the application its best to use the following values.
 <br>
 <br>email: sam@bloggs.com
 <br>password: secret
@@ -29,4 +29,4 @@ When logging with the application its best to use the following values
 Well now that this is done.I just want to say thanks for all of the lecturers & I hope you have a nice summer holiday (Well... as nice as it gets with the virus).
 <p align="center"><img src="https://www.telegraph.co.uk/content/dam/Travel/2019/June/hammock.jpg?imwidth=1400" width="400"></p>
 
-p.s. sorry for being so quiet & not offering as much to the lecturer as I probably could
+p.s. sorry for being so quiet & not offering as much to the lecturer as I probably could.
