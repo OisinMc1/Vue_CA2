@@ -19,10 +19,8 @@ Then migrate and seed the database:
 
 - `php artisan migrate --seed`
 
-And then initialise, add, and commit to Git:
+When logging with the application
+email: sam@bloggs.com
+password: secret
 
-- `git init`
-- `git add .`
-- `git commit -am "Initial commit"`
-
-Set your own remote git repo and push your commits
+<p align="center"><img src="https://i.gyazo.com/c45c06f0c8ddb2cc4486d84adabcf22e.png" width="400"></p>
