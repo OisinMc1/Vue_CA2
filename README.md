@@ -20,8 +20,8 @@ Then migrate and seed the database:
 - `php artisan migrate --seed`
 
 When logging with the application
-email: sam@bloggs.com
-password: secret
+<br>email: sam@bloggs.com
+<br>password: secret
 
 <p align="center"><img src="https://i.gyazo.com/c45c06f0c8ddb2cc4486d84adabcf22e.png" width="400"></p>
 
