@@ -26,7 +26,7 @@ When logging with the application its best to use the following values
 
 <p align="center"><img src="https://i.gyazo.com/c45c06f0c8ddb2cc4486d84adabcf22e.png" width="400"></p>
 
-I just want to say thanks for all of the lecturers & I hope you have a nice summer holiday (Well... as nice as it gets with the virus).
+Well now that this is done.I just want to say thanks for all of the lecturers & I hope you have a nice summer holiday (Well... as nice as it gets with the virus).
 <p align="center"><img src="https://www.telegraph.co.uk/content/dam/Travel/2019/June/hammock.jpg?imwidth=1400" width="400"></p>
 
 p.s. sorry for being so quiet & not offering as much to the lecturer as I probably could
